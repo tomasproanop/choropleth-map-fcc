@@ -8,4 +8,4 @@ I'll also learned about JSON and how to work with data online using an API.
 
 Screenshot: 
 
-<img src="https://github.com/tomasproanop/tree-map-fcc/blob/main/choropleth-map.jpg" width="441" height="333">
+<img src="https://github.com/tomasproanop/choropleth-map-fcc/blob/main/choropleth-map.jpg" width="441" height="333">
